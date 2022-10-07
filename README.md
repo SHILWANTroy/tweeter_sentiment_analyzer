@@ -13,3 +13,5 @@ use anvil app to make frontend portion and use the api key provided in anvil app
 
 # Deploy
 run the anvil app That's it .
+# live app
+https://tweet-sentiment-exalted-used-respond.anvil.app/
